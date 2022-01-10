@@ -1,0 +1,5 @@
+- 👋 Salut, je suis Mikau.
+- 👀 J'aime coder, le sport et jouer de la guitare.
+- 🌱 Je suis développeur logiciel pour un groupe bancaire.
+- 💞️ Je cherche à améliorer mes compétences de développement.
+- 📫 Comment me joindre ? Par mail : anthony.morel71@gmail.com
